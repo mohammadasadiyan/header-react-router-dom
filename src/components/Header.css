@@ -1,0 +1,13 @@
+.header {
+    background-color: red;
+    height: 70px;
+    align-items: center;
+}
+ul {
+    display: flex;
+    justify-content: center;
+}
+li {
+    margin-top: 5px;
+    padding: 20px;
+}
